@@ -22,3 +22,7 @@ This module creates the following resources.
 
 * vpc_cidr - (Required). User must supply the CIDR for VPC.
 * project_name - (Required). User must supply the project nae.
+* env -(Required). User must supply the ENV name.
+* public_cidr -(Required). User must supply the public cidr range.
+* private_cidr -(Required). User must supply the private cidr range.
+* database_cidr -(Required). User must supply the database cidr range.
